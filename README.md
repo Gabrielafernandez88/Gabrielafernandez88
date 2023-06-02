@@ -17,15 +17,16 @@ Here are some ideas to get you started:
 # 👋 Hi, I’m Gabriela
 ![My stats](https://github-readme-stats.vercel.app/api?username=gabrielafernandez88&count_private=true&show_icons=true&theme=radical)
 
-I am a QA tester.
+¡Hola, bienvenido/a a mi perfil de GitHub!
+Soy tester jr.
 
-## 💪🏼 Skills
-- Jira
-- Postman
-- Agile methodology
-- Scrum
+## 💪🏼HABILIDADES
+- Herramienta de gestión: Jira
+- Herramientas de pruebas de Api: Postman
+- Metodologias ágiles: Scrum 
 - Database
 - Git
 
-## 👀 You can find me at:
+## 👀 CONTACTO
 - Linkedin: [tuNombre](https://www.linkedin.com/in/tulinkedin/)
+- Email: gabriela.mar.fernandez@gmail.com
