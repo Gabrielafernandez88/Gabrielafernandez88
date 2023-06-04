@@ -23,7 +23,7 @@ Soy tester jr.**
 ## 💪🏼HABILIDADES
 - >Herramienta de gestión: Jira
 - >Herramientas de pruebas de Api: Postman
-- >Metodologias ágiles: Scrum 
+- >Metodologias ágiles: método Scrum 
 - >Database
 - >Git
 
